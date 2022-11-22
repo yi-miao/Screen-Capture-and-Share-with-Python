@@ -28,8 +28,11 @@ Please refer that project about the details for
 5. Asynchronous Programming (client side key-event handling)
 6. Web version with Flask (minimum code and html)
 
+Use Case 1:  
 ![Use Case 1](usecase_1.jpg)  
+Use Case 2:  
 ![Use Case 2](usecase_2.jpg)  
+Use Case 3:  
 ![Use Case 3](usecase_3.jpg)  
 
 [Ref 1] https://python-mss.readthedocs.io/  
