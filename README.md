@@ -1,4 +1,4 @@
-This is project to demo how to use two Python libraries MSS [Ref 1] and PYAUTOGUI [Ref 2] in   
+This is project to demo how to use these two Python libraries MSS [Ref 1] and PYAUTOGUI [Ref 2] in   
 1. Standalone Applications (UC1): Take a screen shot, resize and display it  
 - screen_mss.py  
 - screen_pag.py  
