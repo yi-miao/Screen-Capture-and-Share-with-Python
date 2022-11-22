@@ -28,9 +28,9 @@ Please refer that project about the details for
 5. Asynchronous Programming (client side key-event handling)
 6. Web version with Flask (minimum code and html)
 
-![Use Case 1](usecase1.jpg)
-![Use Case 2](usecase2.jpg)
-![Use Case 3](usecase3.jpg)
+![Use Case 1](usecase_1.jpg)  
+![Use Case 2](usecase_2.jpg)  
+![Use Case 3](usecase_3.jpg)  
 
 [Ref 1] https://python-mss.readthedocs.io/  
 [Ref 2] https://pyautogui.readthedocs.io/en/latest/  
