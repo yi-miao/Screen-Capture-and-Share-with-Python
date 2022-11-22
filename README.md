@@ -1,12 +1,12 @@
 This is project to demo how to use these two Python libraries MSS [Ref 1] and PYAUTOGUI [Ref 2] in   
 1. Standalone Applications (UC1): Take a screen shot, resize and display it  
-- screen_mss.py  
-- screen_pag.py  
+- screen_mss.py (hit any key to terminate)  
+- screen_pag.py (hit any key to terminate)  
 2. Client-server Applications (UC2): Take screenshots, transfer them from client 
 to server and display by the server  
 - server.py  
-- client_mss.py  
-- client_pag.py  
+- client_mss.py (esc to terminate)  
+- client_pag.py (esc to terminate)  
 3. Web Applications (UC3): Take screenshots by webservers, and delivery to 
 a web browser on demand.
 - app_mss.py  
