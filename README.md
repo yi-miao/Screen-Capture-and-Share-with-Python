@@ -18,8 +18,8 @@ This project also uses the concepts and skills of another [Ref 3]
 - live video and  
 - screenshots  
 
-are only different types of contents which are independent. Same technologies  
-can be used to process them.  
+are only different types of contents which are independent of the technologies  
+used to process them.  
  
 Please refer that project about the details for
 1. Client-Server programming with socket
