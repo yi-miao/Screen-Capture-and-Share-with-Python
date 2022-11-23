@@ -17,6 +17,7 @@ This project also uses the concepts and skills of another [Ref 3]
 "Live Video Streaming with Python", and proves that 
 - live video and  
 - screenshots  
+
 are only different types of contents which are independent. Same technologies  
 can be used to process them.  
  
